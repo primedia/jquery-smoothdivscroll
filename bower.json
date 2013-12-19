@@ -1,0 +1,15 @@
+{
+  "name": "jquery-smoothdivscroll",
+  "version": "0.0.1",
+  "main": "jquery.smoothdivscroll.js",
+  "dependencies": {
+    "jquery": null,
+    "jquery-ui-widget": null,
+    "jquery-ui-effects": null,
+    "jquery-mousewheel": null
+  },
+  "ignore": [
+    "package.json",
+    "README.md"
+  ]
+}
