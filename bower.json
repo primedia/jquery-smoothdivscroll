@@ -3,10 +3,9 @@
   "version": "0.0.1",
   "main": "jquery.smoothdivscroll.js",
   "dependencies": {
-    "jquery": null,
-    "jquery-ui-widget": null,
-    "jquery-ui-effects": null,
-    "jquery-mousewheel": null
+    "jquery": "1.8.3",
+    "jqueryui": "1.8.23",
+    "jquery-mousewheel": "latest"
   },
   "ignore": [
     "package.json",
