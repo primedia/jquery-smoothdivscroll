@@ -1,4 +1,4 @@
-define(['jquery-ui-widget', 'jquery-ui-effects', 'jquery-mousewheel'],function (uiWidget, uiEffects, mousewheel) {
+define(['jquery-mousewheel', 'jquery-ui'],function (mousewheel) {
 /*
  * jQuery SmoothDivScroll 1.2
  *
