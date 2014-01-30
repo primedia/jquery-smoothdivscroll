@@ -1,4 +1,4 @@
-define(['jquery-mousewheel', 'jquery-ui'],function (mousewheel) {
+define(['jquery', 'jquery-mousewheel', 'jquery-ui'], function ($) {
 /*
  * jQuery SmoothDivScroll 1.2
  *
@@ -21,7 +21,6 @@ define(['jquery-mousewheel', 'jquery-ui'],function (mousewheel) {
    Download the latest version at http://brandonaaron.net/code/mousewheel/demos
  *
  */
-(function ($) {
 
 	$.widget("thomaskahn.smoothDivScroll", {
 		// Default options
@@ -1073,6 +1072,4 @@ define(['jquery-mousewheel', 'jquery-ui'],function (mousewheel) {
 			$.Widget.prototype.destroy.apply(this, arguments);
 		}
 	});
-})(jQuery);
 });
-/* 2012-04-26 11:12:40 -0400 */
