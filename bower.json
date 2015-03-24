@@ -1,10 +1,10 @@
 {
   "name": "jquery-smoothdivscroll",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "jquery.smoothdivscroll.js",
   "dependencies": {
     "jquery": "1.8.3",
-    "jquery-ui": "1.8.22",
+    "jquery-ui": "git@github.com:RentPath/jquery-ui.git#v1.11.18",
     "jquery-mousewheel": "latest"
   },
   "ignore": [
